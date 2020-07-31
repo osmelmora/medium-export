@@ -25,7 +25,7 @@ gulp.task("watch", function() {
 
 
 /*
-  Let's build this sucker.
+  Let's build this sucker. 😅
 */
 gulp.task('build', gulp.series(
   'css'
